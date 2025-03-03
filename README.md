@@ -1,3 +1,3 @@
-cd weater-service
 newvenv/Scripts/Activate
+cd weater-service
 npm start
